@@ -1,0 +1,5 @@
+User-agent: *
+Allow: 
+
+Sitemap: https://tower-defense-simulator-codes.herokuapp.com/host-https-progameguides.com/sitemap_index.xml
+Sitemap: https://tower-defense-simulator-codes.herokuapp.com/sitemap/sitemap.xml
